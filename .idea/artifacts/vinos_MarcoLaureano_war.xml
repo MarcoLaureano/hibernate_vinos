@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vinos_MarcoLaureano:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>vinos_MarcoLaureano</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="vinos_MarcoLaureano-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vinos_MarcoLaureano:war exploded" />
+    </root>
+  </artifact>
+</component>
